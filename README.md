@@ -155,9 +155,13 @@ docker run -p 6333:6333 qdrant/qdrant
 ### 🎯 Sample Use Cases
 
 ✅ Contract analysis
+
 ✅ HR policy Q&A
+
 ✅ Research paper understanding
+
 ✅ Legal clause extraction
+
 ✅ Financial report insights
 
 ---
