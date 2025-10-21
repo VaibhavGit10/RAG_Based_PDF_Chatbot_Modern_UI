@@ -1,0 +1,21 @@
+<!-- /public/logo.svg -->
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">PDF Insight AI Logo</title>
+  <desc id="desc">Minimal document with AI spark</desc>
+  <circle cx="90" cy="90" r="78" stroke="#ffffff22" stroke-width="4"/>
+  <path d="M54 46h44l22 22v66a12 12 0 0 1-12 12H54a12 12 0 0 1-12-12V58a12 12 0 0 1 12-12z"
+        stroke="#fff" stroke-width="6" stroke-linejoin="round" fill="none"/>
+  <path d="M98 46v22a10 10 0 0 0 10 10h22" stroke="#fff" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <line x1="60" y1="84" x2="108" y2="84" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+  <line x1="60" y1="100" x2="120" y2="100" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+  <line x1="60" y1="116" x2="112" y2="116" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+  <g transform="translate(104,108)">
+    <path d="M0 0 L18 -8 M0 0 L-6 18 M18 -8 L24 10 M-6 18 L14 22"
+          stroke="#fff" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <circle cx="0" cy="0" r="4" fill="#fff"/>
+    <circle cx="18" cy="-8" r="3.5" fill="#fff"/>
+    <circle cx="-6" cy="18" r="3.5" fill="#fff"/>
+    <circle cx="24" cy="10" r="3" fill="#fff"/>
+    <circle cx="14" cy="22" r="3" fill="#fff"/>
+  </g>
+</svg>
